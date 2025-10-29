@@ -12,8 +12,10 @@ What I Do
 
 🌎 Domains: Sustainable energy, environmental monitoring, education, and science-policy intersections
 
-📊 Featured Projects
-🧩 Sustainable Energy Analysis – SQL & Python
+
+Featured Projects
+
+Sustainable Energy Analysis – SQL & Python
 
 Analyzed global renewable energy trends using open-source data.
 Cleaned and structured datasets with Python, stored and queried with SQL, visualized top renewable countries in Tableau.
