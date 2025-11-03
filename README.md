@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Divya  
+## Hi there 👋 I'm Divya Shankari
 
 🌱 **Environmental Scientist | Data Analyst | Sustainability Enthusiast**  
 
